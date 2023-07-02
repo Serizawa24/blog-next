@@ -1,0 +1,12 @@
+.wrapper {
+  min-height: 100vh;  
+}
+.desc {
+  padding: 20px 0;
+  font-size: 3rem;
+  font-weight: 300;
+  text-align: center;
+}
+.author {
+  font-weight: 500;
+}
